@@ -51,6 +51,12 @@
     <ClCompile Include="..\..\Source\UnrealEngineC\MyActor_Test.h">
       <Filter>Source\UnrealEngineC</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\Source\UnrealEngineC\PlataformActor.cpp">
+      <Filter>Source\UnrealEngineC</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\UnrealEngineC\PlataformActor.h">
+      <Filter>Source\UnrealEngineC</Filter>
+    </ClCompile>
     <None Include="..\..\Source\UnrealEngineC\UnrealEngineC.Build.cs">
       <Filter>Source\UnrealEngineC</Filter>
     </None>
