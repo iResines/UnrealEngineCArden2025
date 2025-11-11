@@ -11,6 +11,7 @@
     <None Include="..\..\Source\UnrealEngineCEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.vsconfig" />
     <Filter Include="Config">
       <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
     </Filter>
@@ -32,6 +33,18 @@
     <Filter Include="Source\UnrealEngineC">
       <UniqueIdentifier>{1FEDE3E2-2364-356C-937E-9BF0A273FFFA}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\UnrealEngineC\Car.cpp">
+      <Filter>Source\UnrealEngineC</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\UnrealEngineC\Car.h">
+      <Filter>Source\UnrealEngineC</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\UnrealEngineC\CarModel.cpp">
+      <Filter>Source\UnrealEngineC</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\UnrealEngineC\CarModel.h">
+      <Filter>Source\UnrealEngineC</Filter>
+    </ClCompile>
     <ClCompile Include="..\..\Source\UnrealEngineC\MyActor_Test.cpp">
       <Filter>Source\UnrealEngineC</Filter>
     </ClCompile>
@@ -45,6 +58,12 @@
       <Filter>Source\UnrealEngineC</Filter>
     </ClCompile>
     <ClCompile Include="..\..\Source\UnrealEngineC\UnrealEngineC.h">
+      <Filter>Source\UnrealEngineC</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\UnrealEngineC\Vehicle.cpp">
+      <Filter>Source\UnrealEngineC</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\UnrealEngineC\Vehicle.h">
       <Filter>Source\UnrealEngineC</Filter>
     </ClCompile>
   </ItemGroup>
