@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\isabe\\onedrive\\computadora\\documentos\\unreal\\unrealenginecarden2025\\unrealenginec\\intermediate\\build\\win64\\unrealeditor\\inc\\unrealenginec\\uht\\temperature.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\isabe\\onedrive\\computadora\\documentos\\unreal\\unrealenginecarden2025\\unrealenginec\\intermediate\\build\\win64\\x64\\unrealengineceditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderunreal5_3.h.pch",
+        "Includes": [
+            "c:\\users\\isabe\\onedrive\\computadora\\documentos\\unreal\\unrealenginecarden2025\\unrealenginec\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\unrealenginec\\definitions.unrealenginec.h",
+            "c:\\users\\isabe\\onedrive\\computadora\\documentos\\unreal\\unrealenginecarden2025\\unrealenginec\\source\\unrealenginec\\temperature.h",
+            "c:\\users\\isabe\\onedrive\\computadora\\documentos\\unreal\\unrealenginecarden2025\\unrealenginec\\intermediate\\build\\win64\\unrealeditor\\inc\\unrealenginec\\uht\\temperature.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
