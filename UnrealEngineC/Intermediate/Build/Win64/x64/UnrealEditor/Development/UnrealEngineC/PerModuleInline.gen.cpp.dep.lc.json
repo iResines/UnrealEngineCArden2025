@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\isabe\\onedrive\\computadora\\documentos\\unreal\\unrealenginecarden2025\\unrealenginec\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\unrealenginec\\permoduleinline.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\isabe\\onedrive\\computadora\\documentos\\unreal\\unrealenginecarden2025\\unrealenginec\\intermediate\\build\\win64\\x64\\unrealengineceditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderunreal5_3.h.pch",
+        "Includes": [
+            "c:\\users\\isabe\\onedrive\\computadora\\documentos\\unreal\\unrealenginecarden2025\\unrealenginec\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\unrealenginec\\definitions.unrealenginec.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

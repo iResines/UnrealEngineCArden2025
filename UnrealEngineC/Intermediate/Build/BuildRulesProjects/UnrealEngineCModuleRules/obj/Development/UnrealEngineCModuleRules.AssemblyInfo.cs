@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UnrealEngineCModuleRules")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Development")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e83cc4d97325382049846a825e684f9d26ad6e2d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e42b28c538d78a0353a43f8f58a0eb8ad3664e8e")]
 [assembly: System.Reflection.AssemblyProductAttribute("UnrealEngineCModuleRules")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UnrealEngineCModuleRules")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

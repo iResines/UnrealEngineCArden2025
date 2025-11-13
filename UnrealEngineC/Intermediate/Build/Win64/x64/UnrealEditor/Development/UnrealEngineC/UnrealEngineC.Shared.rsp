@@ -287,6 +287,9 @@
 /I "Editor\AnimationEditMode\Public"
 /I "C:\Users\isabe\OneDrive\Computadora\Documentos\UNREAL\UnrealEngineCArden2025\UnrealEngineC\Intermediate\Build\Win64\UnrealEditor\Inc\UnrealEngineC\UHT"
 /I "C:\Users\isabe\OneDrive\Computadora\Documentos\UNREAL\UnrealEngineCArden2025\UnrealEngineC\Source"
+/I "..\Plugins\EnhancedInput\Intermediate\Build\Win64\UnrealEditor\Inc\EnhancedInput\UHT"
+/I "..\Plugins\EnhancedInput\Source"
+/I "..\Plugins\EnhancedInput\Source\EnhancedInput\Public"
 /external:W0
 /external:I "ThirdParty\GuidelinesSupportLibrary\GSL-1144\include"
 /external:I "ThirdParty\RapidJSON\1.1.0"

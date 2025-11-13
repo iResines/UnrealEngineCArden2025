@@ -51,6 +51,12 @@
     <ClCompile Include="..\..\Source\UnrealEngineC\MyActor_Test.h">
       <Filter>Source\UnrealEngineC</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\Source\UnrealEngineC\MyCharacterInput.cpp">
+      <Filter>Source\UnrealEngineC</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\UnrealEngineC\MyCharacterInput.h">
+      <Filter>Source\UnrealEngineC</Filter>
+    </ClCompile>
     <ClCompile Include="..\..\Source\UnrealEngineC\PlataformActor.cpp">
       <Filter>Source\UnrealEngineC</Filter>
     </ClCompile>
@@ -84,5 +90,6 @@
     <ClCompile Include="..\..\Source\UnrealEngineC\Vehicle.h">
       <Filter>Source\UnrealEngineC</Filter>
     </ClCompile>
+    <None Include="cpp.hint" />
   </ItemGroup>
 </Project>
